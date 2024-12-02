@@ -534,11 +534,11 @@ Ambos sistemas operativos optimizan la memoria virtual para entornos multiusuari
 
 ---
 
-# Simulación de Swapping de Procesos en Memoria Virtual en Java
+### Simulación de Swapping de Procesos en Memoria Virtual en Java
 
 En esta simulación, implementamos un algoritmo básico de swapping de procesos en memoria virtual utilizando Java. El objetivo es emular el intercambio de procesos entre la memoria principal (RAM) y el disco (swapping), un concepto clave en sistemas operativos para gestionar la memoria virtual.
 
-## Código en Java
+#### Código en Java
 
 ```java
 import java.util.LinkedList;
