@@ -896,3 +896,16 @@ sistema.cache.display_cache()
 2. **Priority Queue Data Structure**  
    Discusión detallada sobre colas de prioridad, sus implementaciones y aplicaciones.  
    Fuente: [GeeksforGeeks](https://www.geeksforgeeks.org/priority-queue-introduction/)
+
+### Otras referencias utilizadas dentro del archivo
+
+1. **Memoria Caché y Optimización de E/S**:
+   - Patterson, D. A., & Hennessy, J. L. (2017). *Computer Organization and Design: The Hardware/Software Interface* (5th ed.). Elsevier.
+   - Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley.
+
+2. **Sistemas Operativos y Caché**:
+   - Tanenbaum, A. S. (2014). *Modern Operating Systems* (4th ed.). Prentice Hall.
+   - Tanenbaum, A. S., & Woodhull, A. S. (2006). *Operating Systems: Design and Implementation* (3rd ed.). Prentice Hall.
+
+3. **Algoritmos de Reemplazo de Caché**:
+   - Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). *Data Structures and Algorithms in Python*. Wiley.
