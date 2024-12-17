@@ -1,5 +1,5 @@
 # PREGUNTAS Y PROGRAMAS
-### Alumno: Jesús Rodrigo Juárez Martienez
+### Alumno: Jesús Rodrigo Juárez Martinez
 ### Profesor: Jesús Eduardo Alcaraz Chavez
 ### Sistemas Operativos
 
